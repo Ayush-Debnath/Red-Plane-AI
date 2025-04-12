@@ -32,5 +32,6 @@ Red Plane AI is a twist on the classic Flappy Bird game — but with more attitu
 
 1. Clone this fire:
    ```bash
-   git clone https://github.com/your-username/red-plane-ai.git
+   git clone https://github.com/Ayush-Debnath/Red-Plane-AI.git
    cd red-plane-ai
+
